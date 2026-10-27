@@ -62,22 +62,28 @@ Hey! I'm Divyanshu. I teach machines to talk, predict and help people 🤖
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🚦 <a href="https://github.com/Divyanshu18-code?tab=repositories">AI Traffic Monitoring System</a></h3>
-      <p>An AI-based system that monitors road traffic and detects vehicles to help analyse traffic flow.</p>
+      <h3>🚦 <a href="https://github.com/Divyanshu18-code/ai-traffic-monitoring-system">AI Traffic Monitoring System</a></h3>
+      <p>Computer vision app that detects, tracks and counts vehicles and pedestrians from video files, webcams or CCTV streams, with congestion levels and a live Streamlit dashboard.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/AI-8A2BE2?style=flat-square" alt="AI" />
+        <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black" alt="YOLOv8" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧾 <a href="https://github.com/Divyanshu18-code?tab=repositories">Billing Software</a></h3>
-      <p>A billing application to create and manage bills, products and customer records.</p>
+      <h3>🧾 <a href="https://github.com/Divyanshu18-code/ledgerly-billing-workspace">Ledgerly: Billing Software</a></h3>
+      <p>Multi-tenant billing and finance workspace for businesses and freelancers, with client and inventory management, JWT authentication and role-based access control.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </p>
     </td>
     <td width="50%" valign="top">
