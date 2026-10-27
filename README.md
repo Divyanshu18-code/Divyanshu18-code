@@ -48,11 +48,48 @@ Hey! I'm Divyanshu. I teach machines to talk, predict and help people 🤖
 
 ## 🚀 Projects:
 
-- 🩺 [**Medical Chatbot**](https://github.com/Divyanshu18-code/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS): LLM + LangChain + Pinecone + Flask + AWS
-- 🤖 [**AI-Chatbot**](https://github.com/Divyanshu18-code/AI-Chatbot-): Conversational AI in Python
-- 📉 [**Churn Prediction**](https://github.com/Divyanshu18-code/Churn-Prediction): ML model to predict customer churn
-- 🌫️ [**Hyper-Local AQI**](https://github.com/Divyanshu18-code/Hyper-Local_AQI): Local air quality tracker
-- 📝 [**MarTechAdda Blog**](https://github.com/Divyanshu18-code/MarTechAdda-Blog-Page) and ❓ [**FAQ Page**](https://github.com/Divyanshu18-code/MarTechAdda-FAQ-page): Web pages in JS and TS
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩺 <a href="https://github.com/Divyanshu18-code/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS">Medical Chatbot</a></h3>
+      <p>An end-to-end medical Q&A chatbot. It uses an LLM with LangChain and Pinecone to find relevant information (RAG), a Flask backend, and is deployed on AWS.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain" />
+        <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" alt="Pinecone" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚦 <a href="https://github.com/Divyanshu18-code?tab=repositories">AI Traffic Monitoring System</a></h3>
+      <p>An AI-based system that monitors road traffic and detects vehicles to help analyse traffic flow.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/AI-8A2BE2?style=flat-square" alt="AI" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧾 <a href="https://github.com/Divyanshu18-code?tab=repositories">Billing Software</a></h3>
+      <p>A billing application to create and manage bills, products and customer records.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/Divyanshu18-code/AI-Chatbot-">AI Chatbot</a></h3>
+      <p>A conversational AI chatbot that answers user questions in natural language.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/LLM-8A2BE2?style=flat-square" alt="LLM" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 🌱 Currently:
 
